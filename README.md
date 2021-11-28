@@ -1,7 +1,7 @@
 # Song 🎅🏻
 Front-End Developer - ChangYeop Song.
 
-### Techs 🔥
+### Tech 🔥
 
 
 <p>
