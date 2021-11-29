@@ -1,5 +1,5 @@
 # Song 🎅🏻
-Front-End Developer - ChangYeop Song.
+Front-End Developer - Changyeop Song.
 
 ### Tech 🔥
 
