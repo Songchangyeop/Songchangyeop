@@ -26,7 +26,15 @@ Front-End Developer - Changyeop Song.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songchangyeop&langs_count=8&exclude_repo=Example-deep-learning-from-scratch&layout=compact&line_height=24&hide_border=true&title_color=d88e82"></p>
 
+<br />
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Songchangyeop?pet-id=585746291089561911"
+    width="500"
+    height="120"
+  />
+</a>
 
 <!--
 **Songchangyeop/Songchangyeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
