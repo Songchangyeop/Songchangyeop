@@ -32,8 +32,8 @@ Front-End Developer - Changyeop Song.
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Songchangyeop?pet-id=587818362557535742"
-    width="500"
-    height="120"
+    width="600"
+    height="200"
   />
 </a>
   
